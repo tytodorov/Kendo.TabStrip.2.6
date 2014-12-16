@@ -5,12 +5,12 @@
   "AppIdentifier": "com.telerik.KendoTabStrip26",
   "DisplayName": "Kendo.TabStrip.2.6",
   "Author": "",
-  "Description": "",
+  "Description": "Kendo.TabStrip.2.6",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
     "1",
-	"2"
+    "2"
   ],
   "iOSBackgroundMode": [],
   "WP8TileTitle": "",
